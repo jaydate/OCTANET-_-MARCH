@@ -1,0 +1,243 @@
+.pexels-photo-by-mudassir-ali {
+  width: 1548px;
+  position: relative;
+  height: 1020px;
+  object-fit: cover;
+  opacity: 0.3;
+}
+.frame {
+  position: absolute;
+  top: -22px;
+  left: -97px;
+  width: 1634px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.rave-your-heart,
+.span,
+.waterjets1 {
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.rave-your-heart {
+  border: 0;
+  background-color: transparent;
+  font-family: var(--font-stick);
+  font-size: 90px;
+  outline: 0;
+  position: absolute;
+  top: 239px;
+  left: calc(50% - 447px);
+  text-transform: uppercase;
+  background: linear-gradient(180deg, #09fde0 28.5%, #fff);
+  text-align: left;
+  display: inline-block;
+  width: 894px;
+}
+.span,
+.waterjets1 {
+  white-space: pre-wrap;
+}
+.span {
+  background: linear-gradient(180deg, #fff 59%, rgba(255, 255, 255, 0));
+}
+.waterjets1 {
+  background: linear-gradient(180deg, #fff 13.5%, rgba(255, 255, 255, 0));
+}
+.waterjets {
+  margin: 0;
+}
+.pleasure-craft-performance {
+  margin: 0;
+  background: linear-gradient(180deg, #fff 59%, rgba(255, 255, 255, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.order,
+.waterjets-pleasure-craft-container {
+  position: absolute;
+  letter-spacing: 0.05em;
+  line-height: 61px;
+  display: inline-block;
+}
+.waterjets-pleasure-craft-container {
+  top: 383px;
+  left: calc(50% - 360px);
+  font-weight: 600;
+  width: 720px;
+}
+.order {
+  top: 628px;
+  left: 579px;
+  font-size: 60px;
+  font-family: var(--font-stick);
+  background: linear-gradient(180deg, #00f1f7, #fff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 170px;
+  height: 61px;
+}
+.frame-child {
+  position: absolute;
+  top: 630px;
+  left: calc(50% - 123px);
+  border-radius: 50px;
+  background-color: rgba(149, 149, 149, 0.45);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  filter: blur(10px);
+  width: 263px;
+  height: 79px;
+}
+.waterjets2 {
+  position: relative;
+  font-weight: 500;
+}
+.passion {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.powering-your-passion-container {
+  width: 169px;
+  position: relative;
+  font-size: 18px;
+  font-family: var(--font-stick);
+  display: inline-block;
+  height: 59px;
+  flex-shrink: 0;
+}
+.frame3 {
+  position: absolute;
+  top: 10px;
+  left: 32px;
+  width: 169px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.main {
+  position: relative;
+  font-weight: 600;
+}
+.main-parent {
+  position: absolute;
+  top: 6px;
+  left: calc(50% - 190px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 40px;
+}
+.frame4 {
+  position: absolute;
+  top: 10px;
+  left: 471px;
+  width: 380px;
+  height: 30px;
+  overflow: hidden;
+  font-size: var(--font-size-xl);
+}
+.frame-icon,
+.frame-icon1,
+.frame6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 9.3px;
+  height: 27.3px;
+  overflow: hidden;
+}
+.frame-icon1,
+.frame6 {
+  top: 0.1px;
+  left: 27.3px;
+  width: 21px;
+  height: 27px;
+}
+.frame6 {
+  top: 0;
+  left: 0;
+  width: 49px;
+  height: 27.3px;
+}
+.frame-inner,
+.frame-item {
+  position: absolute;
+  top: -0.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 21px;
+  height: 1px;
+}
+.frame-inner {
+  top: 4.5px;
+}
+.line-icon {
+  top: 10px;
+  left: 0;
+  max-height: 100%;
+}
+.frame-child1,
+.frame7,
+.line-icon {
+  position: absolute;
+  width: 20px;
+}
+.frame-child1 {
+  top: 15px;
+  left: 0;
+  max-height: 100%;
+}
+.frame7 {
+  top: 7px;
+  left: 135px;
+  height: 18px;
+  overflow: hidden;
+}
+.frame1,
+.frame2,
+.frame5,
+.vector-icon {
+  position: absolute;
+  top: 10px;
+  left: 65px;
+  width: 20.9px;
+  height: 15.6px;
+}
+.frame1,
+.frame2,
+.frame5 {
+  left: 1103px;
+  width: 161px;
+  height: 27.3px;
+  overflow: hidden;
+}
+.frame1,
+.frame2 {
+  top: 0;
+  left: 0;
+  width: 1296px;
+  height: 106px;
+}
+.frame1 {
+  top: 67px;
+  left: 72px;
+  height: 709px;
+}
+.main333 {
+  width: 100%;
+  position: relative;
+  background-color: #444;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
